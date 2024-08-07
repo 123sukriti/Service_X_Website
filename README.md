@@ -1,2 +1,2 @@
-# Service_X_Website
+# Service X
 Projesct of full stack development
